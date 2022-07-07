@@ -8,9 +8,9 @@ Tujuan dari pembuatan sistem aplikasi ini adalah untuk membangun dan merancang s
 berbagai macam hewani yang ada. Dengan sistem ini memudahkan kita dalam mencari tahu tentang animals tanpa harus menggunakan kertas koran.
 
 Ada pun hal positif lainnya, yaitu : 
-- Memberikan kemudahan kepada orang tua untuk mengajarkan hal yangbaik kepada anaknya.
-- Memberikan kemudahan dari sisi finansial jauh lebih ekonomis denganmenggunakan aplikasi ini. 
-- Menanamkan rasa ke ingin tahuan terhadap anak akan pendidikanluar
+- Memberikan kemudahan kepada orang tua untuk mengajarkan hal yang baik kepada anaknya.
+- Memberikan kemudahan dari sisi finansial jauh lebih ekonomis dengan menggunakan aplikasi ini. 
+- Menanamkan rasa ke ingin tahuan terhadap anak akan pendidikan luar
 dengan cara mengetahui nama hewan dengan pelafalan Bahasa.
 
 Berikut tampilan halaman pada aplikasi Sistem Animals pada Flutter
