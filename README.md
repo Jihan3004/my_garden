@@ -5,7 +5,7 @@
 # SISTEM ANIMALS PADA FLUTTER
 
 Tujuan dari pembuatan sistem aplikasi ini adalah untuk membangun dan merancang sebuah sistem aplikasi informasi yang akan membantu dalam proses pembelajaran informal bagi semua orang yang membutuhkan terutama bagi orangtua akan lebih mudah dalam memberikan pelajaran bagi anak dalam mengenal
-berbagai macam hewani yang ada. Dengan sistem ini memudahkan kita dalammencari tahu tentang animals tanpa harus menggunakan kertas koran.
+berbagai macam hewani yang ada. Dengan sistem ini memudahkan kita dalam mencari tahu tentang animals tanpa harus menggunakan kertas koran.
 
 Ada pun hal positif lainnya, yaitu : 
 - Memberikan kemudahan kepada orang tua untuk mengajarkan hal yangbaik kepada anaknya.
