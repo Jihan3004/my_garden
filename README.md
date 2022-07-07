@@ -4,17 +4,11 @@
 
 # SISTEM ANIMALS PADA FLUTTER
 
-A new Flutter project.
+Tujuan dari pembuatan sistem aplikasi ini adalah untuk membangundanmerancang sebuah sistem aplikasi informasi yang akan membantu dalamprosespembelajaran informal bagi semua orang yang membutuhkan terutama bagi orangtua akan lebih mudah dalam memberikan pelajaran bagi anak dalammengenal
+berbagai macam hewani yang ada. Dengan sistem ini memudahkan kita dalammencari tahu tentang animals tanpa harus menggunakan kertas koran.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ada pun hal positif lainnya, yaitu : 
+- Memberikan kemudahan kepada orang tua untuk mengajarkan hal yangbaik kepada anaknya.
+- Memberikan kemudahan dari sisi finansial jauh lebih ekonomis denganmenggunakan aplikasi ini. 
+- Menanamkan rasa ke ingin tahuan terhadap anak akan pendidikanluar
+dengan cara mengetahui nama hewan dengan pelafalan Bahasa.
