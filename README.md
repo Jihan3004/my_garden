@@ -1,4 +1,8 @@
-# my_garden
+Nama : JIHAN HABIBAH
+NIM : 311910094
+Kelas : TI 19 B2
+
+SISTEM ANIMALS PADA FLUTTER
 
 A new Flutter project.
 
